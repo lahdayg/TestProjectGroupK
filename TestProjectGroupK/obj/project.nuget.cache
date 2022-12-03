@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0mpzaczWO6oQ3P2qaj4wjjk6ywnuWEGp7eF9AvuTC3kQIjy2XUoImL/5tBGegGGgDms8xEt/l+NLoU5OFhkHBA==",
+  "dgSpecHash": "til1TLNubOTYQHJKPH1oB7xrt1NkoKxzAvX0+LkoLXNSyV8IcvQOYo2lEkG5BynBhrDxnxI7k38DuxaZjwFrQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\balea\\source\\repos\\TestProjectGroupK\\TestProjectGroupK\\TestProjectGroupK.csproj",
+  "projectFilePath": "C:\\Users\\balea\\source\\repos\\Repo\\TestProjectGroupK\\TestProjectGroupK\\TestProjectGroupK.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\balea\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\balea\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

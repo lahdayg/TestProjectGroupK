@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\balea\\source\\repos\\TestProjectGroupK\\TestProjectGroupK\\TestProjectGroupK.csproj": {}
+    "C:\\Users\\balea\\source\\repos\\Repo\\TestProjectGroupK\\TestProjectGroupK\\TestProjectGroupK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\balea\\source\\repos\\TestProjectGroupK\\TestProjectGroupK\\TestProjectGroupK.csproj": {
+    "C:\\Users\\balea\\source\\repos\\Repo\\TestProjectGroupK\\TestProjectGroupK\\TestProjectGroupK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\balea\\source\\repos\\TestProjectGroupK\\TestProjectGroupK\\TestProjectGroupK.csproj",
+        "projectUniqueName": "C:\\Users\\balea\\source\\repos\\Repo\\TestProjectGroupK\\TestProjectGroupK\\TestProjectGroupK.csproj",
         "projectName": "TestProjectGroupK",
-        "projectPath": "C:\\Users\\balea\\source\\repos\\TestProjectGroupK\\TestProjectGroupK\\TestProjectGroupK.csproj",
+        "projectPath": "C:\\Users\\balea\\source\\repos\\Repo\\TestProjectGroupK\\TestProjectGroupK\\TestProjectGroupK.csproj",
         "packagesPath": "C:\\Users\\balea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\balea\\source\\repos\\TestProjectGroupK\\TestProjectGroupK\\obj\\",
+        "outputPath": "C:\\Users\\balea\\source\\repos\\Repo\\TestProjectGroupK\\TestProjectGroupK\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\balea\\AppData\\Roaming\\NuGet\\NuGet.Config",
